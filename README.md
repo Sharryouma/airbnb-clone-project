@@ -1,3 +1,37 @@
+## UI Component Patterns
+
+### Components to Implement
+- **Navbar:** For navigation across pages.  
+- **Property Card:** Displays individual property details in a grid/list view.  
+- **Footer:** Provides site-wide links and copyright information.  
+- **Search Bar:** Allows users to filter properties based on criteria.  
+- **Booking Form:** Collects user details for booking confirmation.
+## Project Roles and Responsibilities
+
+| Role              | Key Responsibilities                                                                            |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| Project Manager   | Oversees progress, ensures deadlines are met, and manages communication and resources.         |
+| Frontend Developer| Implements UI/UX designs, builds React components, and integrates APIs.                       |
+| Backend Developer | Develops server-side logic, manages databases, and secures data.                              |
+| Designer          | Creates wireframes and mockups, ensures aesthetic and functional designs.                     |
+| QA/Tester         | Tests the application, identifies bugs, and ensures quality before release.                   |
+| DevOps Engineer   | Manages deployment processes, monitors performance, and sets up CI/CD pipelines.              |
+| Product Owner     | Defines the product vision, prioritizes features, and liaises with stakeholders.              |
+| Scrum Master      | Facilitates Agile practices, organizes stand-ups, and removes team impediments.               |
+### Design Properties
+
+- **Color Styles:**  
+  - Primary: #FF385C  
+  - Secondary: #008489  
+  - Background: #F7F7F7  
+
+- **Typography:**  
+  - Font Family: "Inter", sans-serif  
+  - Font Weights: 400 (Normal), 600 (Semi-Bold), 700 (Bold)  
+  - Font Sizes: 14px, 16px, 18px  
+
+### Importance of Design Properties
+Identifying design properties ensures consistency, aligns with brand guidelines, and simplifies the development process.
 ## UI/UX Design Planning
 
 ### Design Goals
