@@ -1,3 +1,19 @@
+## UI/UX Design Planning
+
+### Design Goals
+- Create a visually appealing and user-friendly interface.
+- Ensure seamless navigation across pages.
+- Optimize responsiveness for various devices.
+
+### Key Features
+| Page            | Description                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| Property Listing View | Displays properties with titles, prices, descriptions, and images.       |
+| Listing Detailed View | Provides extensive details about a selected property with amenities.    |
+| Simple Checkout View  | Streamlines the booking process with options for dates and guests.      |
+
+### Importance of User-Friendly Design
+A well-designed booking system enhances user satisfaction, simplifies interactions, and ensures higher engagement and conversion rates.
 # Airbnb Clone Project
 
 ## Overview
